@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/License-MIT-blueviolet)
 ![](https://img.shields.io/badge/Language-Java-brightgreen)
 
-# DesignPattern
+# Design Pattern
 基于Java语言实现的设计模式
 
 ## Author
