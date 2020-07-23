@@ -1,7 +1,7 @@
 package com.DesignPattern.ChainOfResponsibilityPattern;
 
 /**
- * Chain Of ResponsibilityPattern 责任链模式
+ * Chain Of Responsibility Pattern 责任链模式
  */
 public class ChainOfResponsibilityPatternDemo {
     public static void main(String[] args) {
