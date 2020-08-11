@@ -1,7 +1,7 @@
 package com.DesignPattern.InterpreterPattern.demo1;
 
 /**
- * 非终止表达式角色：减法操作符
+ * 非终止符表达式角色：减法操作符
  */
 public class SubOperator implements Expression {
     /**

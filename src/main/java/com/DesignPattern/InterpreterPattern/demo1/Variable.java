@@ -1,7 +1,7 @@
 package com.DesignPattern.InterpreterPattern.demo1;
 
 /**
- * 终止表达式角色：变量
+ * 终止符表达式角色：变量
  */
 public class Variable implements Expression {
 

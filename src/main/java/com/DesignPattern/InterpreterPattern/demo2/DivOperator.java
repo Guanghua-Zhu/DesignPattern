@@ -1,7 +1,7 @@
 package com.DesignPattern.InterpreterPattern.demo2;
 
 /**
- * 非终止表达式角色：除法操作符
+ * 非终止符表达式角色：除法操作符
  */
 public class DivOperator implements Expression {
     /**

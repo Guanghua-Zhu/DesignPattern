@@ -17,7 +17,7 @@ public class Demo1 {
 
         System.out.println("------------ Test 1 ------------");
         // 计算表达式 a+b
-        Expression aAddb = new AddOperator(a,b);
+        Expression aAddb = new AddOperator(a,b);        // client 客户端负责组装 AST抽象语法树
         Integer result1 = aAddb.interpreter(context);
         System.out.println("a+b = " + result1);
 
